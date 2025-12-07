@@ -1,6 +1,6 @@
 {
     "name": "react-native-zoom-grid",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "main": "lib/commonjs/index.js",
     "description": "A high-performance, zoomable grid component for React Native, built on top of @shopify/flash-list.",
     "repository": {
