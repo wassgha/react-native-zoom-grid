@@ -32,7 +32,7 @@
         "typecheck": "tsc --noEmit",
         "lint": "eslint \"**/*.{js,ts,tsx}\"",
         "clean": "del-cli lib",
-        "prepare": "bob build",
+        "prepare": "npx react-native-builder-bob@latest build",
         "release": "release-it"
     },
     "react-native-builder-bob": {

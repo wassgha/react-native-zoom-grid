@@ -12,7 +12,7 @@ A high-performance, zoomable grid component for React Native, built on top of `@
 
 ## Demo
 
-![Demo of react-native-zoom-grid](https://raw.githubusercontent.com/wassgha/react-native-zoom-grid/main/@react-native-zoom-grid.gif)
+![Demo of react-native-zoom-grid](./screenshots/react-native-zoom-grid.gif)
 
 ## Installation
 
