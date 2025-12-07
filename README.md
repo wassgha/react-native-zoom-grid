@@ -10,6 +10,10 @@ A high-performance, zoomable grid component for React Native, built on top of `@
 - 🎨 **Customizable:** Define your own zoom levels (column counts), render custom items, and headers.
 - 🔄 **Infinite Scroll:** Supports `onEndReached` for loading more data.
 
+## Demo
+
+![Demo of react-native-zoom-grid](https://raw.githubusercontent.com/wassgha/react-native-zoom-grid/main/@react-native-zoom-grid.gif)
+
 ## Installation
 
 This package requires several peer dependencies:
