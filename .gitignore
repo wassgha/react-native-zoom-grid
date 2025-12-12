@@ -4,6 +4,8 @@
 .expo/**
 .expo
 
+/lib
+
 # dependencies
 /node_modules
 /.pnp
