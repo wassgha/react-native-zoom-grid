@@ -1,11 +1,11 @@
 # react-native-zoom-grid
 
-A high-performance, zoomable grid component for React Native, built on top of `@shopify/flash-list`. It provides seamless pinch-to-zoom transitions between different grid layouts, mimicking the native iOS Photos app experience.
+A high-performance, zoomable grid component for React Native, built on top of `@legendapp/list`. It provides seamless pinch-to-zoom transitions between different grid layouts, mimicking the native iOS Photos app experience.
 
 ## Features
 
 - 📸 **iOS-style Zoom Transitions:** Smooth, gesture-driven transitions between different column counts.
-- ⚡ **High Performance:** Built with `react-native-reanimated` and `@shopify/flash-list` for 60fps animations and efficient list rendering.
+- ⚡ **High Performance:** Built with `react-native-reanimated` and `@legendapp/list` for 60fps animations and efficient list rendering.
 - 🖐 **Gesture Support:** precise pinch-to-zoom interactions using `react-native-gesture-handler`.
 - 🎨 **Customizable:** Define your own zoom levels (column counts), render custom items, and headers.
 - 🔄 **Infinite Scroll:** Supports `onEndReached` for loading more data.
@@ -19,13 +19,13 @@ A high-performance, zoomable grid component for React Native, built on top of `@
 This package requires several peer dependencies:
 
 ```bash
-npm install react-native-zoom-grid @shopify/flash-list react-native-reanimated react-native-gesture-handler react-native-safe-area-context
+npm install react-native-zoom-grid @legendapp/list react-native-reanimated react-native-gesture-handler react-native-safe-area-context
 ```
 
 or
 
 ```bash
-yarn add react-native-zoom-grid @shopify/flash-list react-native-reanimated react-native-gesture-handler react-native-safe-area-context
+yarn add react-native-zoom-grid @legendapp/list react-native-reanimated react-native-gesture-handler react-native-safe-area-context
 ```
 
 > **Note:** Make sure to complete the installation setup for [react-native-reanimated](https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started) and [react-native-gesture-handler](https://docs.swmansion.com/react-native-gesture-handler/docs/installation) as per their documentation (e.g., adding the babel plugin, wrapping your app in `GestureHandlerRootView`).
